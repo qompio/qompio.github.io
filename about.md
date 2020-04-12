@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Links for the Brain
+permalink: /links/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Linux help
+[linux file filesystem](https://www.linux.com/training-tutorials/linux-filesystem-explained/)
 
 
-[jekyll-organization]: https://github.com/jekyll
+# CSS
+[this is a great resource for learning CSS](https://cssreference.io/property/align-content/)
+
+
+# HTML
+[And another reference for HTML](https://htmlreference.io/)
