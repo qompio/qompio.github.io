@@ -35,11 +35,7 @@ It has also come to my attention the raspberry pi might not be the best computer
   * [ODRIOD N2](https://www.hardkernel.com/shop/odroid-n2-with-2gbyte-ram/)
   * [ROCK64](https://www.pine64.org/devices/single-board-computers/rock64/)
 
-These are just two boards that came up while ripping thru r/seedbox. I'll have to spend some time comparing the data sheets of these and rpi4.
 
-The other addition to this whole system is adding private trackers to my repetoire. I just signed up for one, they had opening signups. I read through some of their documentation and need to make sure my systems are honed before I start playing ball with them. This means I need to get my sonarr and radarr automation up to where I want it to be, mostly on the file management side.
-
-The other thing I need to think more about is the use of a professional seedbox. These look very cool. I'll need to research them more. Potentially linking a raspberry pi to one of these seedboxs would be epic.
 
 
 *There is a long road ahead. One step at a time*
